@@ -1,5 +1,7 @@
 # Movie Mania
 
+Movie Mania is a web application that allows users to discover popular movies and search for specific movies using the [TMDB API](https://developer.themoviedb.org/docs/getting-started).
+
 ## Table of Contents
 
 - [Features](#features)
@@ -11,9 +13,13 @@
 
 ## Features
 
+- Display a list of popular movies.
+- Search for movies by title.
+- View movie details including the poster, rating, and overview.
+
 ## Screenshot
 
-![Movie Mania Screenshot](demo.png)
+![<add name> Screenshot](./demo.png)
 
 ### Installation
 
@@ -32,7 +38,9 @@
 ## Usage
 
 - Open the index.html file in your web browser or simply checkout the deployed website under "About" section.
--
+- The main page will display a list of popular movies fetched from the TMDB API.
+- Use the search bar to find specific movies by their title.
+- Click on a movie to view its details, including the poster, rating, and overview.
 
 ## Contributing
 
