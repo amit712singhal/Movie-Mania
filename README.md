@@ -19,7 +19,7 @@ Movie Mania is a web application that allows users to discover popular movies an
 
 ## Screenshot
 
-![<add name> Screenshot](./demo.png)
+![Screenshot](./demo.png)
 
 ### Installation
 
